@@ -146,16 +146,16 @@
 [msg PARTY_IN_CHECK_PC09_mes0_2 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8130 65535 0]Ah, there seem to be quite a few people[n]already on the team. Could you tell me[n]who to switch with?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC10_mes0 [[sumi 10 0]]]
+[msg PARTY_IN_CHECK_PC10_mes0 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57144 65535 0]Do you want me to join the main team?[n]Don't worry, I can be ready anytime![n][w][e]
 
-[msg PARTY_IN_CHECK_PC10_selA_2 [[sumi 10 0]]]
+[msg PARTY_IN_CHECK_PC10_selA_2 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57106 65535 0]Got it! I'll be sure to do my part![n][w][e]
 
-[msg PARTY_IN_CHECK_PC10_selA_3 [[sumi 10 0]]]
+[msg PARTY_IN_CHECK_PC10_selA_3 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57055 65535 0]All right. I'll stay warmed up in case[n]you need me.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC10_mes0_2 [[sumi 10 0]]]
+[msg PARTY_IN_CHECK_PC10_mes0_2 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57037 65535 0]Oh, but you've already got a full team.[n]Who should I switch places with?[n][w][e]
 
 [msg PARTY_IN_CHECK_PC02_NM_m [Skull]]
@@ -302,6 +302,6 @@
 [msg D156_01_npc_01_mes03 [Noir]]
 [s][bup 0 7 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3022 65535 0]Okay...[n][w][e]
 
-[msg D162_01_npc_01_mes01 [[sumi 10 0]]]
+[msg D162_01_npc_01_mes01 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57136 65535 0]I want to talk to Dr. Maruki. Please, let me[n]come with you.[n][w][e]
 
