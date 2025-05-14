@@ -58,7 +58,7 @@
 [msg DUNGEON_CHECK_END_mes09 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8099 65535 0]Understood. Now then, let us head out.[n][w][e]
 
-[msg DUNGEON_CHECK_END_mes10 [[sumi 10 0]]]
+[msg DUNGEON_CHECK_END_mes10 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57106 65535 0]Roger that. Let's go![n][w][e]
 
 [msg DUNGEON_CHECK_END_PC03_m [Mona]]
@@ -106,7 +106,7 @@
 [msg SAFEROOM_EXIT_CHECK_01_P_8 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Correct, we have ample time before[n]the deadline. Retreat would be a wise[n]decision.[n][w][e]
 
-[msg SAFEROOM_EXIT_CHECK_01_P_9 [[sumi 10 0]]]
+[msg SAFEROOM_EXIT_CHECK_01_P_9 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Yes, we still have plenty time until the[n]deadline. Let's head back.[n][w][e]
 
 [msg SAFEROOM_EXIT_CHECK_02_0 [Skull]]
@@ -133,7 +133,7 @@
 [msg SAFEROOM_EXIT_CHECK_02_0_8 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]We may be losing time... but heading[n]back for now may be the proper way of[n]doing things.[n][w][e]
 
-[msg SAFEROOM_EXIT_CHECK_02_0_9 [[sumi 10 0]]]
+[msg SAFEROOM_EXIT_CHECK_02_0_9 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]We're short on time, however... It may be[n]wise to retreat for now.[n][w][e]
 
 [msg SAFEROOM_EXIT_CHECK_03_0 [Skull]]
@@ -160,7 +160,7 @@
 [msg SAFEROOM_EXIT_CHECK_03_0_8 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]We have secured our Treasure route,[n]correct? We should head back if there is[n]nothing more.[n][w][e]
 
-[msg SAFEROOM_EXIT_CHECK_03_0_9 [[sumi 10 0]]]
+[msg SAFEROOM_EXIT_CHECK_03_0_9 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]We've secured our route to the Treasure.[n]We should head back if there's nothing[n]else to do here.[n][w][e]
 
 [msg PARTY_ALL_Good_01_PC02_m [Skull]]
@@ -187,7 +187,7 @@
 [msg PARTY_ALL_Good_01_PC09_m [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8020 65535 0]There seem to be no issues at present.[n]Actually, it seems everyone is quite[n]energized.[n][w][e]
 
-[msg PARTY_ALL_Good_01_PC10_m [[sumi 10 0]]]
+[msg PARTY_ALL_Good_01_PC10_m [Violet]]
 [s][bup 0 10 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57026 65535 0]Not a problem at all! I can keep going![n][w][e]
 
 [msg PARTY_Bad_01_PC02_mes [Skull]]
@@ -214,7 +214,7 @@
 [msg PARTY_Bad_01_PC09_mes [Crow]]
 [s][bup 0 9 3 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8038 65535 0]My apologies, but it seems I am[n]beginning to lose focus...[n][w][e]
 
-[msg PARTY_Bad_01_PC10_mes [[sumi 10 0]]]
+[msg PARTY_Bad_01_PC10_mes [Violet]]
 [s][bup 0 10 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57045 65535 0]I'm sorry. I'm starting to lose focus...[n][w][e]
 
 [msg PARTY_RESERVE_Good_01_PC [Skull]]
@@ -238,7 +238,7 @@
 [msg PARTY_RESERVE_Good_01_PC_7 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]I am still overflowing with energy. Would[n]you like me to switch with somebody?[n][w][e]
 
-[msg PARTY_RESERVE_Good_01_PC_8 [[sumi 10 0]]]
+[msg PARTY_RESERVE_Good_01_PC_8 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]I can still go. Would like to switch me[n]with someone?[n][w][e]
 
 [msg PARTY_ALL_NORMAL_01_PC02 [Skull]]
@@ -262,7 +262,7 @@
 [msg PARTY_ALL_NORMAL_01_PC09 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8020 65535 0]Hm, everyone seems somewhat tired...[n]but this is nothing, yes?[n][w][e]
 
-[msg PARTY_ALL_NORMAL_01_PC10 [[sumi 10 0]]]
+[msg PARTY_ALL_NORMAL_01_PC10 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57025 65535 0]Everyone seems a bit tired, but I think we[n]can keep going.[n][w][e]
 
 [msg PARTY_LIMIT_CHECK_01_PC0 [Skull]]
@@ -289,7 +289,7 @@
 [msg PARTY_LIMIT_CHECK_01_PC0_8 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8018 65535 0]Approximately [var 1] days left until our[n]deadline arrives.[n][w][e]
 
-[msg PARTY_LIMIT_CHECK_01_PC1 [[sumi 10 0]]]
+[msg PARTY_LIMIT_CHECK_01_PC1 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57113 65535 0]We have [var 1] days until the deadline.[n][w][e]
 
 [msg PARTY_LIMIT_HIGH_01_PC02 [Skull]]
@@ -316,7 +316,7 @@
 [msg PARTY_LIMIT_HIGH_01_PC09 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]There is no need to panic at this point.[n]Retreat may be the wisest decision.[n][w][e]
 
-[msg PARTY_LIMIT_HIGH_01_PC10 [[sumi 10 0]]]
+[msg PARTY_LIMIT_HIGH_01_PC10 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]We still have time. How about we return?[n][w][e]
 
 [msg PARTY_LIMIT_LOW_01_PC02_ [Skull]]
@@ -343,7 +343,7 @@
 [msg PARTY_LIMIT_LOW_01_PC09_ [Crow]]
 [s][bup 0 9 5 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]There is no longer time to spare.[n]We should proceed forth for now.[n][w][e]
 
-[msg PARTY_LIMIT_LOW_01_PC10_ [[sumi 10 0]]]
+[msg PARTY_LIMIT_LOW_01_PC10_ [Violet]]
 [s][bup 0 10 105 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]We don't have much time.[n]Would you like to go a bit further?[n][w][e]
 
 [msg SP_CHECK_80_PC03_mes01 [Mona]]
@@ -397,7 +397,7 @@
 [msg PARTY_RESERVE_Good_EX_PC_7 [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]I still have some energy left. Please use[n]my powers if they will be of assistance to[n]you.[n][w][e]
 
-[msg PARTY_RESERVE_Good_EX_PC_8 [[sumi 10 0]]]
+[msg PARTY_RESERVE_Good_EX_PC_8 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]I can still keep going. Count on me.[n][w][e]
 
 [msg SP_CHECK_40_limit_PC03_m [Mona]]
@@ -425,6 +425,33 @@
 
 [msg START_CHECK_MES_NEXT [Mona]]
 [s][bup 0 3 0 65535 0]Make sure you choose your starting[n]location carefully.[n][w][e]
+
+[msg D01_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Kamoshida's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D02_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Madarame's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D03_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Kaneshiro's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D04_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Futaba's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D05_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Okumura's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D06_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Niijima's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D07_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Shido's Palace. Thank you for your hard[n]work.[n][w][e]
+
+[msg D08_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Mementos. Thank you for your hard work.[n][w][e]
+
+[msg D10_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Maruki's Palace. Thank you for your hard[n]work.[n][w][e]
 
 [msg DUNGEON_ROUTE_COMP_PC03_ [Mona]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]We've secured our route to the Treasure...[n]Do you want to get out of here?[n][w][e]
@@ -456,7 +483,7 @@
 [msg DUNGEON_EXIT_NOT_01_PC09 [Crow]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Hm? You wish to return? But we have[n]yet to accomplish anything meaningful[n]in our time here.[n][w][e]
 
-[msg DUNGEON_EXIT_NOT_01_PC10 [[sumi 10 0]]]
+[msg DUNGEON_EXIT_NOT_01_PC10 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Huh, we're going back? I feel like we[n]haven't actually done anything yet...[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC02_mes [Skull]]
@@ -483,7 +510,7 @@
 [msg DUNGEON_EXIT_01_PC09_mes [Crow]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8130 65535 0]Oh? Are we retreating?[n][w][e]
 
-[msg DUNGEON_EXIT_01_PC10_mes [[sumi 10 0]]]
+[msg DUNGEON_EXIT_01_PC10_mes [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57089 65535 0]Oh, should we regroup?[n][w][e]
 
 [msg DUNGEON_EXIT_01_PC11_mes [Crow]]
@@ -531,11 +558,16 @@
 [msg D_EXIT_OK_01_PC09_mes [Crow]]
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8035 65535 0]That is a good idea. In that case, let us[n]get out of here.[n][w][e]
 
-[msg D_EXIT_OK_01_PC10_mes [[sumi 10 0]]]
+[msg D_EXIT_OK_01_PC10_mes [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57066 65535 0]Understood. Shall we head back then?[n][w][e]
 
 [msg D_EXIT_OK_01_PC11_mes [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8138 65535 0]That is a good idea. In that case, let us[n]get out of here.[n][w][e]
+
+[sel DUNGEON_EXIT_151_EX_SEL top]
+[s]*Special[e]
+[s]Activate the [clr 6]Metaverse Nav[clr 27][e]
+[s]Don't activate the nav[e]
 
 [msg DUNGEON_EXIT_D01_EX_mes [Skull]]
 [s][bup 0 2 0 65535 0]If we use that nav thing around here,[n]I'm thinkin' it'll get us back to the real[n]world.[n][w][e]
@@ -570,7 +602,7 @@
 [msg D_EXIT_CANCEL_PC09_mes [Crow]]
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8070 65535 0]Very well, let us push onward a bit further.[n][w][e]
 
-[msg D_EXIT_CANCEL_PC10_mes [[sumi 10 0]]]
+[msg D_EXIT_CANCEL_PC10_mes [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57163 65535 0]Yes. Let's go just a bit further.[n][w][e]
 
 [msg D_EXIT_CANCEL_PC11_mes [Crow]]
@@ -619,7 +651,7 @@
 [s][bup 0 9 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8112 65535 0]You wish to leave after coming this far?[n]How unlike you.[n][w][e]
 [s][bup 0 9 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]We should try to do this today though.[n]I will lend you my aid.[n][w][e]
 
-[msg D_EXIT_NG_ACTIVE_01_PC10 [[sumi 10 0]]]
+[msg D_EXIT_NG_ACTIVE_01_PC10 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57118 65535 0]I thought we couldn't turn back once[n]the calling card was sent?[n][w][e]
 [s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Let's go, Joker. I'll give it my all too.[n][w][e]
 
@@ -674,4 +706,3 @@
 
 [msg D07_DUNGEON_EXIT_SC_mes0 [Skull]]
 [s][bup 0 2 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]C'mon, we came all this way. Let's at least[n]try checkin' around a little more first.[n][w][e]
-
