@@ -43,31 +43,31 @@
 [msg PARTY_IN_CHECK_PC04_mes0_2 [Panther]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6186 65535 0]Your party's full though... Who do you[n]want me to switch with?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_mes0 [Fox]]
+[msg PARTY_IN_CHECK_PC05_mes0 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4104 65535 0]Hm? Shall I join the vanguard?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_EX_m [Fox]]
+[msg PARTY_IN_CHECK_PC05_EX_m [Yusuke]]
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4083 65535 0]I am fully prepared for this final battle...[n]Please include me if you consider[n]it necessary.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_selA_2 [Fox]]
+[msg PARTY_IN_CHECK_PC05_selA_2 [Yusuke]]
 [s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4136 65535 0]I will ensure you don't come to regret[n]this decision.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_selA_3 [Fox]]
+[msg PARTY_IN_CHECK_PC05_selA_3 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Understood. I will hold my ground as[n]a member of the rear guard.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_mes0_2 [Fox]]
+[msg PARTY_IN_CHECK_PC05_mes0_2 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]It seems the vanguard is already packed[n]full. Please designate a person with[n]whom I should switch.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_D02_ [Fox]]
+[msg PARTY_IN_CHECK_PC05_D02_ [Yusuke]]
 [s][bup 0 5 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4150 65535 0]Please allow me to join the vanguard,[n]Joker. I will not disappoint you,[n]I promise.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_D02__3 [Fox]]
+[msg PARTY_IN_CHECK_PC05_D02__3 [Yusuke]]
 [s][bup 0 5 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4177 65535 0]Thank you. We will change Madarame's[n]heart, no matter what![n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_D02__4 [Fox]]
+[msg PARTY_IN_CHECK_PC05_D02__4 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4026 65535 0]Then I shall remain prepared for the off[n]chance you choose to include me later on.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_D02__5 [Fox]]
+[msg PARTY_IN_CHECK_PC05_D02__5 [Yusuke]]
 [s][bup 0 5 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]It seems the vanguard is already packed[n]full. Please designate a person with[n]whom I should switch.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC06_mes0 [Queen]]
@@ -182,16 +182,16 @@
 [msg PARTY_IN_CHECK_PC04_NM_m_2 [Panther]]
 [s][bup 0 4 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6186 65535 0]Your party's full though... Who do you[n]want me to switch with?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_NM_m [Fox]]
+[msg PARTY_IN_CHECK_PC05_NM_m [Yusuke]]
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4104 65535 0]Hm? Shall I join the vanguard?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_NM_s_2 [Fox]]
+[msg PARTY_IN_CHECK_PC05_NM_s_2 [Yusuke]]
 [s][bup 0 5 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4136 65535 0]I will ensure you don't come to regret[n]this decision.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_NM_s_3 [Fox]]
+[msg PARTY_IN_CHECK_PC05_NM_s_3 [Yusuke]]
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Understood. I will hold my ground as[n]a member of the rear guard.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_NM_m_2 [Fox]]
+[msg PARTY_IN_CHECK_PC05_NM_m_2 [Yusuke]]
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]It seems the vanguard is already packed[n]full. Please designate a person with[n]whom I should switch.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC06_NM_m [Queen]]
@@ -230,16 +230,16 @@
 [msg PARTY_IN_CHECK_PC04_NM02_5 [Panther]]
 [s][bup 0 4 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6186 65535 0]Your party's full though... Who do you[n]want me to switch with?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_NM02 [Fox]]
+[msg PARTY_IN_CHECK_PC05_NM02 [Yusuke]]
 [s][bup 0 5 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4104 65535 0]Hm? Shall I join the vanguard?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_NM02_3 [Fox]]
+[msg PARTY_IN_CHECK_PC05_NM02_3 [Yusuke]]
 [s][bup 0 5 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4136 65535 0]I will ensure you don't come to regret[n]this decision.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_NM02_4 [Fox]]
+[msg PARTY_IN_CHECK_PC05_NM02_4 [Yusuke]]
 [s][bup 0 5 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4020 65535 0]Understood. I will hold my ground as[n]a member of the rear guard.[n][w][e]
 
-[msg PARTY_IN_CHECK_PC05_NM02_5 [Fox]]
+[msg PARTY_IN_CHECK_PC05_NM02_5 [Yusuke]]
 [s][bup 0 5 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4155 65535 0]It seems the vanguard is already packed[n]full. Please designate a person with[n]whom I should switch.[n][w][e]
 
 [msg PARTY_IN_CHECK_PC06_NM02 [Queen]]

@@ -103,3 +103,4 @@
 [msg SAFE_MES_yusuke5 [Fox]]
 [s][bup 0 5 3 65535 0][f 4 10 65535 0 0][vp 8 2 1 4026 65535 0]Soon, we will finally have him cornered...[n][w][e]
 [s][bup 0 5 2 65535 0][f 4 10 65535 0 0]I am no longer some fool shying away[n]from reality. Joker, let's finish this![n][w][e]
+

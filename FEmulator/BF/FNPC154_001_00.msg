@@ -91,7 +91,6 @@
 [msg PARTY_IN_CHECK_PC06_D03_ [Queen]]
 [s][bup 0 6 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2150 65535 0]Would it be okay if I accompany you[n]for battle? I assure you, I will be useful[n]to the team.[n][w][e]
 
-
 [msg PARTY_IN_CHECK_PC06_D03__3 [Queen]]
 [s][bup 0 6 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2196 65535 0]Thank you... You won't regret it.[n][w][e]
 

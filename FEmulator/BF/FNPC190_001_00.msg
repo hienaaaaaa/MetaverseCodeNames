@@ -158,25 +158,20 @@
 [msg PARTY_IN_CHECK_PC10_mes0_2 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57037 65535 0]Oh, but you've already got a full team.[n]Who should I switch places with?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM_m [Ryuji]]
+[msg PARTY_IN_CHECK_PC02_NM_m [Skull]]
 [s][bup 0 2 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]I'm ready whenever you need me![n]Put me in, coach![n][w][e]
 
-
-[msg PARTY_IN_CHECK_PC02_NM_s_2 [Ryuji]]
+[msg PARTY_IN_CHECK_PC02_NM_s_2 [Skull]]
 [s][bup 0 2 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Mkay, you can count on me![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM_s_3 [Ryuji]]
+[msg PARTY_IN_CHECK_PC02_NM_s_3 [Skull]]
 [s][bup 0 2 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7193 65535 0]You sure? Welp, you can count on me[n]whenever you're feelin' it![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM_m_2 [Ryuji]]
+[msg PARTY_IN_CHECK_PC02_NM_m_2 [Skull]]
 [s][bup 0 2 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7190 65535 0]Looks like you already got a full roster.[n]Who do you wanna take outta the lineup?[n][w][e]
 
 [msg PARTY_IN_CHECK_PC04_NM_m [Panther]]
 [s][bup 0 4 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6018 65535 0]You want me to fight?[n][w][e]
-
-[sel PARTY_IN_CHECK_PC04_NM_s top]
-[s]I'll be counting on you.[e]
-[s]Actually, stay here.[e]
 
 [msg PARTY_IN_CHECK_PC04_NM_s_2 [Panther]]
 [s][bup 0 4 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6060 65535 0]Yeah, let's do this![n][w][e]
@@ -190,10 +185,6 @@
 [msg PARTY_IN_CHECK_PC05_NM_m [Fox]]
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4104 65535 0]Hm? Shall I join the vanguard?[n][w][e]
 
-[sel PARTY_IN_CHECK_PC05_NM_s top]
-[s]I'll be counting on you.[e]
-[s]Actually, stay here.[e]
-
 [msg PARTY_IN_CHECK_PC05_NM_s_2 [Fox]]
 [s][bup 0 5 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4136 65535 0]I will ensure you don't come to regret[n]this decision.[n][w][e]
 
@@ -206,10 +197,6 @@
 [msg PARTY_IN_CHECK_PC06_NM_m [Queen]]
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2158 65535 0]You'd like me as part of your team?[n]Sure, I don't mind.[n][w][e]
 
-[sel PARTY_IN_CHECK_PC06_NM_s top]
-[s]I'll be counting on you.[e]
-[s]Actually, stay here.[e]
-
 [msg PARTY_IN_CHECK_PC06_NM_s_2 [Queen]]
 [s][bup 0 6 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2048 65535 0]I won't let you down![n][w][e]
 
@@ -219,28 +206,20 @@
 [msg PARTY_IN_CHECK_PC06_NM_m_2 [Queen]]
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2156 65535 0]It seems you already have enough[n]people on your team. Who would[n]you like me to switch with?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM02 [Ryuji]]
+[msg PARTY_IN_CHECK_PC02_NM02 [Skull]]
 [s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]I'm ready whenever you need me![n]Put me in, coach![n][w][e]
 
-[sel PARTY_IN_CHECK_PC02_NM02_2 top]
-[s]I'll be counting on you.[e]
-[s]Actually, stay here.[e]
-
-[msg PARTY_IN_CHECK_PC02_NM02_3 [Ryuji]]
+[msg PARTY_IN_CHECK_PC02_NM02_3 [Skull]]
 [s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Mkay, you can count on me![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM02_4 [Ryuji]]
+[msg PARTY_IN_CHECK_PC02_NM02_4 [Skull]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7193 65535 0]You sure? Welp, you can count on me[n]whenever you're feelin' it![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM02_5 [Ryuji]]
+[msg PARTY_IN_CHECK_PC02_NM02_5 [Skull]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7190 65535 0]Looks like you already got a full roster.[n]Who do you wanna take outta the lineup?[n][w][e]
 
 [msg PARTY_IN_CHECK_PC04_NM02 [Panther]]
 [s][bup 0 4 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6018 65535 0]You want me to fight?[n][w][e]
-
-[sel PARTY_IN_CHECK_PC04_NM02_2 top]
-[s]I'll be counting on you.[e]
-[s]Actually, stay here.[e]
 
 [msg PARTY_IN_CHECK_PC04_NM02_3 [Panther]]
 [s][bup 0 4 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6060 65535 0]Yeah, let's do this![n][w][e]
@@ -254,10 +233,6 @@
 [msg PARTY_IN_CHECK_PC05_NM02 [Fox]]
 [s][bup 0 5 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4104 65535 0]Hm? Shall I join the vanguard?[n][w][e]
 
-[sel PARTY_IN_CHECK_PC05_NM02_2 top]
-[s]I'll be counting on you.[e]
-[s]Actually, stay here.[e]
-
 [msg PARTY_IN_CHECK_PC05_NM02_3 [Fox]]
 [s][bup 0 5 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4136 65535 0]I will ensure you don't come to regret[n]this decision.[n][w][e]
 
@@ -269,10 +244,6 @@
 
 [msg PARTY_IN_CHECK_PC06_NM02 [Queen]]
 [s][bup 0 6 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2158 65535 0]You'd like me as part of your team?[n]Sure, I don't mind.[n][w][e]
-
-[sel PARTY_IN_CHECK_PC06_NM02_2 top]
-[s]I'll be counting on you.[e]
-[s]Actually, stay here.[e]
 
 [msg PARTY_IN_CHECK_PC06_NM02_3 [Queen]]
 [s][bup 0 6 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2048 65535 0]I won't let you down![n][w][e]

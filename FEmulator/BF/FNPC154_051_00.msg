@@ -178,3 +178,4 @@
 
 [msg SAFETY_MES_MAKOTO_11_01 [Queen]]
 [s][bup 0 6 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 2048 65535 0]So we're going to send the calling card?[n]I suppose I truly am a phantom thief[n]now...[n][w][e]
+

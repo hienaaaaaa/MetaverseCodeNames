@@ -1,16 +1,16 @@
-[msg PARTY_IN_CHECK_PC02_mes0 [Skull]]
+[msg PARTY_IN_CHECK_PC02_mes0 [Skul]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]I'm ready whenever you need me![n]Put me in, coach![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_EX_m [Skull]]
+[msg PARTY_IN_CHECK_PC02_EX_m [Skul]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]We've come real far, man. You sure[n]you want me fightin'?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_selA_2 [Skull]]
+[msg PARTY_IN_CHECK_PC02_selA_2 [Skul]]
 [s][bup 0 2 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Mkay, you can count on me![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_selA_3 [Skull]]
+[msg PARTY_IN_CHECK_PC02_selA_3 [Skul]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7193 65535 0]You sure? Welp, you can count on me[n]whenever you're feelin' it![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_mes0_2 [Skull]]
+[msg PARTY_IN_CHECK_PC02_mes0_2 [Skul]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7190 65535 0]Looks like you already got a full roster.[n]Who do you wanna take outta the lineup?[n][w][e]
 
 [msg PARTY_IN_CHECK_PC03_mes0 [Mona]]
@@ -158,16 +158,16 @@
 [msg PARTY_IN_CHECK_PC10_mes0_2 [Violet]]
 [s][bup 0 10 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 57037 65535 0]Oh, but you've already got a full team.[n]Who should I switch places with?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM_m [Skull]]
+[msg PARTY_IN_CHECK_PC02_NM_m [Skul]]
 [s][bup 0 2 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]I'm ready whenever you need me![n]Put me in, coach![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM_s_2 [Skull]]
+[msg PARTY_IN_CHECK_PC02_NM_s_2 [Skul]]
 [s][bup 0 2 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Mkay, you can count on me![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM_s_3 [Skull]]
+[msg PARTY_IN_CHECK_PC02_NM_s_3 [Skul]]
 [s][bup 0 2 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7193 65535 0]You sure? Welp, you can count on me[n]whenever you're feelin' it![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM_m_2 [Skull]]
+[msg PARTY_IN_CHECK_PC02_NM_m_2 [Skul]]
 [s][bup 0 2 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7190 65535 0]Looks like you already got a full roster.[n]Who do you wanna take outta the lineup?[n][w][e]
 
 [msg PARTY_IN_CHECK_PC04_NM_m [Panther]]
@@ -206,16 +206,16 @@
 [msg PARTY_IN_CHECK_PC06_NM_m_2 [Queen]]
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2156 65535 0]It seems you already have enough[n]people on your team. Who would[n]you like me to switch with?[n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM02 [Skull]]
+[msg PARTY_IN_CHECK_PC02_NM02 [Skul]]
 [s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7158 65535 0]I'm ready whenever you need me![n]Put me in, coach![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM02_3 [Skull]]
+[msg PARTY_IN_CHECK_PC02_NM02_3 [Skul]]
 [s][bup 0 2 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7045 65535 0]Mkay, you can count on me![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM02_4 [Skull]]
+[msg PARTY_IN_CHECK_PC02_NM02_4 [Skul]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7193 65535 0]You sure? Welp, you can count on me[n]whenever you're feelin' it![n][w][e]
 
-[msg PARTY_IN_CHECK_PC02_NM02_5 [Skull]]
+[msg PARTY_IN_CHECK_PC02_NM02_5 [Skul]]
 [s][bup 0 2 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7190 65535 0]Looks like you already got a full roster.[n]Who do you wanna take outta the lineup?[n][w][e]
 
 [msg PARTY_IN_CHECK_PC04_NM02 [Panther]]

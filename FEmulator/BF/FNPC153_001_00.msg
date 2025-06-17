@@ -124,13 +124,13 @@
 [msg PARTY_IN_CHECK_PC07_D05__5 [Noir]]
 [s][bup 0 7 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3178 65535 0]It seems as though the fighting team is[n]already set. Who would you like me to[n]switch with?[n][w][e]
 
-[msg FUTABA_PARTY_SCOUT [Oracle]]
+[msg FUTABA_PARTY_SCOUT [Futaba]]
 [s][bup 0 8 101 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9055 65535 0]I got all the navigation you need right here![n][w][e]
 
-[msg FUTABA_PARTY_SCOUT_EX [Oracle]]
+[msg FUTABA_PARTY_SCOUT_EX [Futaba]]
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9177 65535 0]Don't worry Joker, I'm here with you.[n]Let's win this time![n][w][e]
 
-[msg FUTABA_PARTY_SCOUT_EX02 [Oracle]]
+[msg FUTABA_PARTY_SCOUT_EX02 [Futaba]]
 [s][bup 0 8 102 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9055 65535 0]Joker, you okay?[n][w][e]
 [s]It's okay to head back and get some[n]more equipment and items ready if[n]you need to![n][w][e]
 
@@ -185,7 +185,6 @@
 [msg PARTY_IN_CHECK_PC05_NM_m [Fox]]
 [s][bup 0 5 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4104 65535 0]Hm? Shall I join the vanguard?[n][w][e]
 
-
 [msg PARTY_IN_CHECK_PC05_NM_s_2 [Fox]]
 [s][bup 0 5 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 4136 65535 0]I will ensure you don't come to regret[n]this decision.[n][w][e]
 
@@ -197,7 +196,6 @@
 
 [msg PARTY_IN_CHECK_PC06_NM_m [Queen]]
 [s][bup 0 6 0 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2158 65535 0]You'd like me as part of your team?[n]Sure, I don't mind.[n][w][e]
-
 
 [msg PARTY_IN_CHECK_PC06_NM_s_2 [Queen]]
 [s][bup 0 6 1 1 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 2048 65535 0]I won't let you down![n][w][e]
@@ -268,7 +266,7 @@
 [msg PARTY_IN_CHECK_PC07_NM02_5 [Noir]]
 [s][bup 0 7 0 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 3178 65535 0]It seems as though the fighting team is[n]already set. Who would you like me to[n]switch with?[n][w][e]
 
-[msg FUTABA_PARTY_SCOUT_NM02 [Oracle]]
+[msg FUTABA_PARTY_SCOUT_NM02 [Futaba]]
 [s][bup 0 8 1 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 9055 65535 0]I got all the navigation you need right here![n][w][e]
 
 [msg PARTY_IN_CHECK_PC09_NM02 [Crow]]

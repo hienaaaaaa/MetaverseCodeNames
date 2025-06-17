@@ -484,9 +484,6 @@
 [msg SAFE_EXIT_HIGH_03_PC10_m [Violet]]
 [s][vp 1 0 0 10149 0 0][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]It'll be dangerous, but hopefully[n]we can still make some progress.[n][w][e]
 
-[msg D_RECOVERY_EV_mes01]
-[s]You have [clr 6]regained some HP[clr 27] by resting.[n][w][e]
-
 [msg SAFE_RECOVERY_MES_01_PC0 [Skull]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Phew... Let's rest up, dude.[n][w][e]
 

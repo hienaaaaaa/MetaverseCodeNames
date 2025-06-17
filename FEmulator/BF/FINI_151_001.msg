@@ -445,6 +445,9 @@
 [msg SAFE_EXIT_HIGH_03_PC10_m [Violet]]
 [s][vp 1 0 0 10149 0 0][bup 0 10 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]It'll be dangerous, but hopefully[n]we can still make some progress.[n][w][e]
 
+[msg D_RECOVERY_EV_mes01]
+[s]You have [clr 6]regained some HP[clr 27] by resting.[n][w][e]
+
 [msg SAFE_RECOVERY_MES_01_PC0 [Skull]]
 [s][bup 0 2 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Phew... Let's rest up, dude.[n][w][e]
 
@@ -522,11 +525,69 @@
 [msg SAFE_EXIT_D01_02_EX_PC03 [Mona]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Let's go. Just remember[n]to be careful in here.[n][w][e]
 
+[sel PROPOSAL_TALK_SEL top]
+[s]Accept the proposal.[bitflag 0 0 106 1][e]
+[s]Do not accept the proposal.[bitflag 0 0 106 1][e]
+
+[sel PROPOSAL_REST_SEL top]
+[s]Accept the proposal.[bitflag 0 0 106 1][e]
+[s]Do not accept the proposal.[bitflag 0 0 106 1][e]
+
+[msg VELVET_SPECIAL_TIME_REMI]
+[s]I'm feeling a bit on edge...[n]I think there could be an active[n]alarm in the Velvet Room...[n][w][e]
+
+[sel START_CHECK_SEL top]
+[s]Head to most recent safe room[e]
+[s]Infiltrate as is[e]
+[s]Don't go in yet[e]
+
 [msg START_CHECK_MES [Mona]]
 [s][bup 0 3 0 65535 0]So, where do you want to start exploring[n]from?[n][w][e]
 
 [msg START_CHECK_MES_NEXT [Mona]]
 [s][bup 0 3 0 65535 0]Make sure you choose your starting[n]location carefully.[n][w][e]
+
+[sel DUNGEON_EXIT_SEL top]
+[s]*Special[e]
+[s]Return to the real world[e]
+[s]Don't leave yet[e]
+
+[sel DUNGEON_EXIT_154_SEL top]
+[s]Go to the city[e]
+[s]Return to the real world[e]
+[s]Don't leave yet[e]
+
+[sel DUNGEON_EXIT_155_SEL top]
+[s]Go to the city[e]
+[s]Return to the real world[e]
+[s]Don't leave yet[e]
+
+[msg D01_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Kamoshida's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D02_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Madarame's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D03_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Kaneshiro's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D04_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Futaba's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D05_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Okumura's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D06_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Niijima's Palace. Thank you for your[n]hard work.[n][w][e]
+
+[msg D07_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Shido's Palace. Thank you for your hard[n]work.[n][w][e]
+
+[msg D08_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Mementos. Thank you for your hard work.[n][w][e]
+
+[msg D10_EXIT_MES [Metaverse Navigator]]
+[s]Now returning to the real world from[n]Maruki's Palace. Thank you for your hard[n]work.[n][w][e]
 
 [msg DUNGEON_ROUTE_COMP_PC03_ [Mona]]
 [s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1185 65535 0]We've secured our route to the Treasure...[n]Do you want to get out of here?[n][w][e]
@@ -638,6 +699,11 @@
 
 [msg D_EXIT_OK_01_PC11_mes [Crow]]
 [s][bup 0 9 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 8138 65535 0]That is a good idea. In that case, let us[n]get out of here.[n][w][e]
+
+[sel DUNGEON_EXIT_151_EX_SEL top]
+[s]*Special[e]
+[s]Activate the [clr 6]Metaverse Nav[clr 27][e]
+[s]Don't activate the nav[e]
 
 [msg DUNGEON_EXIT_D01_EX_mes [Skull]]
 [s][bup 0 2 0 65535 0]If we use that nav thing around here,[n]I'm thinkin' it'll get us back to the real[n]world.[n][w][e]

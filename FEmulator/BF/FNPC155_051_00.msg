@@ -1,4 +1,3 @@
-
 [msg SAFE_MES_ryuzi1 [Skull]]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0][vp 8 2 1 7156 65535 0]Can we trust that Shadow?[n][w][e]
 [s][bup 0 2 7 65535 0][f 4 10 65535 0 0]I got no idea if it's trying to help us[n]or screw us over...[n][w][e]
