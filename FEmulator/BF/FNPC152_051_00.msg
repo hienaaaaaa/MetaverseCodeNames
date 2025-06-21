@@ -1,22 +1,3 @@
-[msg D01_02_e129_041_mes01 [Skull]]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Dammit... Where'd those guys who were[n]locked up go?[n][w][e]
-
-[msg D01_02_e129_041_mes02 [Mona]]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]They probably got moved to another[n]location.[n][w][e]
-
-[msg D01_02_e129_041_mes03 [Skull]]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]But where!? And why!?[n][w][e]
-
-[msg D01_02_e129_041_mes04 [Mona]]
-[s][bup 0 3 2 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Don't ask me![n][w][e]
-[s][bup 0 3 0 65535 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 1157 65535 0]But... there were soldiers around, right?[n]Maybe we could try eavesdropping[n]on them...[n][w][e]
-
-[msg D01_02_PC02_TALK_mes01 [Skull]]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]Dammit... Where'd those guys who were[n]locked up go?[n][w][e]
-
-[msg D01_02_PC02_TALK_mes02 [Skull]]
-[s][bup 0 2 2 2 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7047 65535 0]C'mon, we gotta find the guys who got[n]taken away...[n][w][e]
-
 [msg SAFETY_MES_RYUJI_01 [Skull]]
 [s][bup 0 2 1 65535 0][f 4 10 65535 0 0][vp 8 2 1 7024 65535 0]We've been through all sortsa shit, but[n]we finally get to steal that Treasure![n]I'm so ready for this![n][w][e]
 
