@@ -7,5 +7,5 @@
 [msg GMC_PUZZLE_HINT_msg [Queen]]
 [s]The text on this slab must have some[n]sort of meaning.[n][w][e]
 [s]If I were to say it with more common[n]colors, it would be something like...[n][w][e]
-[s]"The black, red, and blue children[n]serve the green Queen."[n][w][e]
+[s]"The black, red, and blue children[n]serve the green queen."[n][w][e]
 

@@ -1,6 +1,6 @@
 [msg D07_01_e407_201_A_mes05 [Skull]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7085 65535 0]Hey, these guys totally ignore me when[n]I try and talk to 'em...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Do I look that much like I don't got any[n]money? Is it 'cause of the Skull mask or[n]something?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Do I look that much like I don't got any[n]money? Is it 'cause of the skull mask or[n]something?[n][w][e]
 
 [msg D07_01_e407_201_B_mes05 [Panther]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6155 65535 0]Beyond this door is the "VIP area," and[n]the main assembly hall is a "sacred place."[n][w][e]
@@ -25,7 +25,7 @@
 
 [msg D07_01_e407_201_A_AF_mes [Skull]]
 [s][bup 0 2 103 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 7085 65535 0]Hey, these guys totally ignore me when[n]I try and talk to 'em...[n][w][e]
-[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Do I look that much like I don't got any[n]money? Is it 'cause of the Skull mask or[n]something?[n][w][e]
+[s][f 4 10 65535 0 0][f 4 25 1 65535 0 0]Do I look that much like I don't got any[n]money? Is it 'cause of the skull mask or[n]something?[n][w][e]
 
 [msg D07_01_e407_201_B_AF_mes [Panther]]
 [s][bup 0 4 100 0 0][f 4 10 65535 0 0][f 4 25 1 65535 0 0][vp 8 2 1 6155 65535 0]Beyond this door is the "VIP area," and[n]the main assembly hall is a "sacred place."[n][w][e]
